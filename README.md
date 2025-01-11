@@ -27,9 +27,9 @@ Finally, in order to unveil the "black box" of artificial intelligence, we emplo
 
 <div style="display: flex; justify-content: space-around;">
 
-<img src="https://pattishen1230.github.io/images/paper1-MLP.jpg" alt="Fig1" width="33%" />
-<img src="https://pattishen1230.github.io/images/paper1-LSTM.jpg" alt="Fig2" width="33%" />
-<img src="https://pattishen1230.github.io/images/paper1-self-attention.jpg" alt="Fig3" width="33%" />
+<img src="https://pattishen1230.github.io/images/paper1-MLP.jpg" alt="Fig1" width="30%" />
+<img src="https://pattishen1230.github.io/images/paper1-LSTM.jpg" alt="Fig2" width="30%" />
+<img src="https://pattishen1230.github.io/images/paper1-self-attention.jpg" alt="Fig3" width="30%" />
 
 </div>
 
